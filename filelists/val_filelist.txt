@@ -1,5 +1,5 @@
-DUMMY/SRN/SN000095.wav|0|お休みかな？
-DUMMY/SRN/SN000203.wav|0|もう割を。
+DUMMY/SRN/SN000095.wav|お休みかな？
+DUMMY/SRN/SN000203.wav|もう割を。
 DUMMY/SRN/SN000302.wav|0|いいでしょう。
 DUMMY/SRN/SN000405.wav|0|一年。
 DUMMY/SRN/SN000508.wav|0|まあまあまあまあ。
