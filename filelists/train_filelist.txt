@@ -83,7 +83,6 @@ DUMMY/SRN/SN000143.wav|これこれ。
 DUMMY/SRN/SN000144.wav|そう。
 DUMMY/SRN/SN000146.wav|セクシー。
 DUMMY/SRN/SN000147.wav|それで気分を。
-DUMMY/SRN/SN000150.wav|まあ，こんな感じかな。
 DUMMY/SRN/SN000152.wav|交渉。
 DUMMY/SRN/SN000153.wav|ダンス。
 DUMMY/SRN/SN000154.wav|優しい。
@@ -168,7 +167,6 @@ DUMMY/SRN/SN000315.wav|あああああ。
 DUMMY/SRN/SN000318.wav|大家族く。
 DUMMY/SRN/SN000319.wav|そうだからね。
 DUMMY/SRN/SN000320.wav|寝る時は。
-DUMMY/SRN/SN000321.wav|これは。
 DUMMY/SRN/SN000322.wav|百キロぐらい。
 DUMMY/SRN/SN000326.wav|結局ずっと起きてた。
 DUMMY/SRN/SN000328.wav|セレナ。
@@ -253,7 +251,6 @@ DUMMY/SRN/SN000479.wav|これな。
 DUMMY/SRN/SN000481.wav|七月にね。
 DUMMY/SRN/SN000482.wav|うん。
 DUMMY/SRN/SN000483.wav|だからま明日。
-DUMMY/SRN/SN000484.wav|いい感じに光。
 DUMMY/SRN/SN000487.wav|起きたら。
 DUMMY/SRN/SN000488.wav|食べてない。
 DUMMY/SRN/SN000489.wav|ね，嬉しいね。
@@ -338,7 +335,6 @@ DUMMY/SRN/SN000674.wav|これみんなが好きな。
 DUMMY/SRN/SN000675.wav|やりたい。
 DUMMY/SRN/SN000676.wav|覚えといて欲しいもん。
 DUMMY/SRN/SN000677.wav|なんだろう，これ。
-DUMMY/SRN/SN000678.wav|金。
 DUMMY/SRN/SN000680.wav|ニューメンバー嬉しい。
 DUMMY/SRN/SN000681.wav|なんかさ。
 DUMMY/SRN/SN000682.wav|そう，優秀なね。
@@ -423,7 +419,6 @@ DUMMY/SRN/SN000892.wav|妹はね。
 DUMMY/SRN/SN000898.wav|どこか。
 DUMMY/SRN/SN000900.wav|ドランだろうね。
 DUMMY/SRN/SN000901.wav|えっとね，ちょっと待ってね。
-DUMMY/SRN/SN000902.wav|健康的でしょう。
 DUMMY/SRN/SN000908.wav|やってみて。
 DUMMY/SRN/SN000909.wav|ゲーム。
 DUMMY/SRN/SN000910.wav|換気て。
@@ -508,7 +503,6 @@ DUMMY/SRN/SN001103.wav|なんか久しぶりですね。
 DUMMY/SRN/SN001105.wav|ご主人様は。
 DUMMY/SRN/SN001107.wav|起きてなきゃいけない。
 DUMMY/SRN/SN001112.wav|周り学びました。
-DUMMY/SRN/SN001113.wav|水の中でこう。
 DUMMY/SRN/SN001114.wav|聞こえますか？
 DUMMY/SRN/SN001115.wav|生きていこうと思ってます。
 DUMMY/SRN/SN001116.wav|こんばんはこんばんわん。
@@ -535,7 +529,6 @@ DUMMY/SRN/SN001159.wav|たぶんね，あの。
 DUMMY/SRN/SN001161.wav|長いよ，本当に。
 DUMMY/SRN/SN001163.wav|タンドールで寝たら。
 DUMMY/SRN/SN001168.wav|それなら許される。
-DUMMY/SRN/SN001169.wav|次の方。
 DUMMY/SRN/SN001174.wav|可愛いよ，あの子。
 DUMMY/SRN/SN001177.wav|痩せたんだけど。
 DUMMY/SRN/SN001178.wav|体のために。
@@ -593,7 +586,6 @@ DUMMY/SRN/SN001306.wav|いろんなね。
 DUMMY/SRN/SN001307.wav|どうだい，みんな。
 DUMMY/SRN/SN001315.wav|最強すぎる。
 DUMMY/SRN/SN001317.wav|配信が。
-DUMMY/SRN/SN001320.wav|ワンストップ。
 DUMMY/SRN/SN001322.wav|誰もわかんないんだね。
 DUMMY/SRN/SN001323.wav|彼も出てる。
 DUMMY/SRN/SN001324.wav|いや，もうね。
@@ -678,7 +670,6 @@ DUMMY/SRN/SN001505.wav|何を食べにえとね。
 DUMMY/SRN/SN001510.wav|はい，戻りました。
 DUMMY/SRN/SN001511.wav|ええ，楽しみにしてて。
 DUMMY/SRN/SN001512.wav|かわいんもしかして。
-DUMMY/SRN/SN001513.wav|ずっと乗ってるからね，これ。
 DUMMY/SRN/SN001514.wav|例えば，お外の山。
 DUMMY/SRN/SN001515.wav|収録してん。
 DUMMY/SRN/SN001516.wav|やめました。
@@ -763,7 +754,6 @@ DUMMY/SRN/SN001692.wav|告白か。
 DUMMY/SRN/SN001693.wav|怖いなんか。
 DUMMY/SRN/SN001696.wav|いつもみんなからの。
 DUMMY/SRN/SN001698.wav|可愛女の子だ。
-DUMMY/SRN/SN001699.wav|いや，なんかちょっとね。
 DUMMY/SRN/SN001706.wav|最強やな。
 DUMMY/SRN/SN001707.wav|やそう考えたらね。
 DUMMY/SRN/SN001710.wav|これ最強でしょう。
@@ -848,7 +838,6 @@ DUMMY/SRN/SN001880.wav|彼女とのツーショットですよこれ。
 DUMMY/SRN/SN001882.wav|なんか点数とかではないよね。
 DUMMY/SRN/SN001883.wav|一本収録したり。
 DUMMY/SRN/SN001884.wav|なんだっけな。
-DUMMY/SRN/SN001885.wav|そ，これ大事を。
 DUMMY/SRN/SN001886.wav|ゆっくり休んでね，ありがとう。
 DUMMY/SRN/SN001889.wav|サングラスかけてさ。
 DUMMY/SRN/SN001893.wav|ちょっと聞いてみましょう。
@@ -933,7 +922,6 @@ DUMMY/SRN/SN002077.wav|みんなに伝えたから。
 DUMMY/SRN/SN002078.wav|女子校にしてきてさ。
 DUMMY/SRN/SN002079.wav|ミラーの音ちっちゃい嘘。
 DUMMY/SRN/SN002081.wav|え、なんかね、注文だけしてね。
-DUMMY/SRN/SN002082.wav|音楽と美術と。
 DUMMY/SRN/SN002083.wav|それでもいい。
 DUMMY/SRN/SN002085.wav|猫のダニが多すぎます。
 DUMMY/SRN/SN002087.wav|ゾンビじゃないのっとゾンビ。
@@ -1018,7 +1006,6 @@ DUMMY/SRN/SN002217.wav|35°ぐらいはまあ許せる。
 DUMMY/SRN/SN002218.wav|えっ、本当に入ってくれた。
 DUMMY/SRN/SN002220.wav|あと、もう練習したりとかにいろんな。
 DUMMY/SRN/SN002221.wav|ああ、これぐらいかな？
-DUMMY/SRN/SN002224.wav|なんでかちょっと読み込めない？
 DUMMY/SRN/SN002228.wav|これご主人様だよ。
 DUMMY/SRN/SN002229.wav|見に来てほしい。
 DUMMY/SRN/SN002230.wav|それはもうちょっと。
@@ -1029,13 +1016,11 @@ DUMMY/SRN/SN002238.wav|痩せたんだけど。
 DUMMY/SRN/SN002239.wav|そう片付けたくなくて。
 DUMMY/SRN/SN002241.wav|書いてあげたいちょっと待って。
 DUMMY/SRN/SN002243.wav|そう、涼しかったから。
-DUMMY/SRN/SN002244.wav|セレナ偉いそう。
 DUMMY/SRN/SN002246.wav|そんなこと起きないよ。
 DUMMY/SRN/SN002250.wav|まだまだわからないからね。
 DUMMY/SRN/SN002251.wav|さあ、もうぜひともね。
 DUMMY/SRN/SN002252.wav|それもあの曲自体は出来たから。
 DUMMY/SRN/SN002253.wav|何て言うんだろう。ちょっと待って調べます。
-DUMMY/SRN/SN002254.wav|だろうなーっていうのは？
 DUMMY/SRN/SN002255.wav|でも持ってきたけど。
 DUMMY/SRN/SN002257.wav|素材配布するからさ。
 DUMMY/SRN/SN002259.wav|トイレもパッとするんだよ。
@@ -1103,7 +1088,6 @@ DUMMY/SRN/SN002349.wav|ツンデレでもよかったな。
 DUMMY/SRN/SN002350.wav|そうしst 21時から。
 DUMMY/SRN/SN002351.wav|明日も同じ動きやろうと思っている。
 DUMMY/SRN/SN002353.wav|お店の名前がなんだっけな？
-DUMMY/SRN/SN002354.wav|ふみすずちゃんとツーショット撮ったの？
 DUMMY/SRN/SN002355.wav|これであってるあれ？
 DUMMY/SRN/SN002356.wav|今日はね、大丈夫です。
 DUMMY/SRN/SN002357.wav|は出てもらったことがあるんだけど。
@@ -1188,7 +1172,6 @@ DUMMY/SRN/SN002457.wav|無理はしないようにするけどね。
 DUMMY/SRN/SN002458.wav|聞いたことあるんだよね、このゲーム。
 DUMMY/SRN/SN002459.wav|いや嬉しいよね、みんなあれ？
 DUMMY/SRN/SN002460.wav|遺書見せますね。
-DUMMY/SRN/SN002461.wav|ねえママ君、ありがとう。
 DUMMY/SRN/SN002462.wav|セレナセレナ、もう。
 DUMMY/SRN/SN002463.wav|まあ、いろんなねジャンルに。
 DUMMY/SRN/SN002464.wav|オープニング変わった？
@@ -1273,7 +1256,6 @@ DUMMY/SRN/SN002557.wav|という感じになっています。
 DUMMY/SRN/SN002559.wav|え、これじゃないご主人様、これじゃない？
 DUMMY/SRN/SN002561.wav|で、しかもあの。
 DUMMY/SRN/SN002563.wav|かわいく愛心。
-DUMMY/SRN/SN002564.wav|いいえ、英語をちゃんと教えてくれてた。
 DUMMY/SRN/SN002565.wav|猫はサークルに参加していましたか？
 DUMMY/SRN/SN002566.wav|ご主人様に癒されたいです。
 DUMMY/SRN/SN002567.wav|みんなの幸せ。
@@ -1358,7 +1340,6 @@ DUMMY/SRN/SN002661.wav|そうね、うん。
 DUMMY/SRN/SN002662.wav|さあ、それで覚えた。
 DUMMY/SRN/SN002664.wav|悪い人じゃないよ、私は。
 DUMMY/SRN/SN002665.wav|お久しぶりにお久しぶり。
-DUMMY/SRN/SN002666.wav|これからどうぞよろしくお願い。
 DUMMY/SRN/SN002667.wav|これ、ちょっとみんなに見てほしい。
 DUMMY/SRN/SN002668.wav|離れることなんて許さないから。
 DUMMY/SRN/SN002669.wav|今そのために頑張ってるから。
@@ -1443,7 +1424,6 @@ DUMMY/SRN/SN002759.wav|これも一応ね、紹介しましょうか？
 DUMMY/SRN/SN002760.wav|ゲームするの好きだけど、時間がなくて。
 DUMMY/SRN/SN002761.wav|さあ、ちょっと引っ越しの。
 DUMMY/SRN/SN002763.wav|あ、悲しいなって思ってたんだけど。
-DUMMY/SRN/SN002765.wav|これダンボール加わって。
 DUMMY/SRN/SN002766.wav|なんかジムとかもいたりしてるけど。
 DUMMY/SRN/SN002767.wav|一瞬だけ上流階級のふりをした。
 DUMMY/SRN/SN002768.wav|生配信もできなかったシーン。
@@ -1528,7 +1508,6 @@ DUMMY/SRN/SN002858.wav|今今日からのもう。
 DUMMY/SRN/SN002859.wav|学力テスト一いの店三役。
 DUMMY/SRN/SN002861.wav|ブレーキとアクセルどっち？
 DUMMY/SRN/SN002862.wav|まあ、やっぱりこう。
-DUMMY/SRN/SN002863.wav|可愛いのがいいよね？
 DUMMY/SRN/SN002864.wav|そんなすごい人ではないんだけどね、私は。
 DUMMY/SRN/SN002865.wav|なんかみんなも考えといて。
 DUMMY/SRN/SN002866.wav|バーお腹空いちゃうと思うな。
@@ -1613,7 +1592,6 @@ DUMMY/SRN/SN002960.wav|女の子の部活みたいな。
 DUMMY/SRN/SN002961.wav|どうしよう、この変化かなんかこう。
 DUMMY/SRN/SN002962.wav|たりするのね、だからさ。
 DUMMY/SRN/SN002963.wav|もうちょっと黄色い。
-DUMMY/SRN/SN002964.wav|ちょっと私も今日も早く寝てね。
 DUMMY/SRN/SN002965.wav|引っ越しがね終われば、とりあえず。
 DUMMY/SRN/SN002966.wav|ねえ、いろんなものが持ってるわけよ。
 DUMMY/SRN/SN002967.wav|なので良ければ皆さん。
@@ -1698,7 +1676,6 @@ DUMMY/SRN/SN003057.wav|ふ全然全然ねとれなくて。
 DUMMY/SRN/SN003058.wav|パってみたらエアコン付いてなくて。
 DUMMY/SRN/SN003059.wav|本当に虫みたいに見えて来た。
 DUMMY/SRN/SN003060.wav|私はみんなのマンエンジェルだから。
-DUMMY/SRN/SN003061.wav|なんとかこうみんなで復活させてほしい。
 DUMMY/SRN/SN003062.wav|そんねと十か月、9月に。
 DUMMY/SRN/SN003063.wav|人前人前っていうか何だろう？
 DUMMY/SRN/SN003064.wav|めちゃくちゃ甘いもの食べたくなって。
@@ -1783,7 +1760,6 @@ DUMMY/SRN/SN003155.wav|学校の周り十周とか？
 DUMMY/SRN/SN003156.wav|かわいいかわいいお写真を撮ってくれたんですね。
 DUMMY/SRN/SN003158.wav|うん、お腹痛いのは気をつけてね、本当に。
 DUMMY/SRN/SN003159.wav|雨ダンボールの中に入れてます。
-DUMMY/SRN/SN003160.wav|猫は私に運動の仕方を教えてくれた。
 DUMMY/SRN/SN003161.wav|なんか食べた、アイスとかあるかな？
 DUMMY/SRN/SN003162.wav|どうなんだろうな？
 DUMMY/SRN/SN003163.wav|見てねっていう情報。
@@ -1868,7 +1844,6 @@ DUMMY/SRN/SN003247.wav|なんで私、一人で食べに行ったことになっ
 DUMMY/SRN/SN003248.wav|主人様たちの食費がなくなるかもしれない。
 DUMMY/SRN/SN003249.wav|もうでも炎天下のね。
 DUMMY/SRN/SN003250.wav|あんあえんぴビューティフォーカール。
-DUMMY/SRN/SN003251.wav|やってくれる人いるのかな？
 DUMMY/SRN/SN003252.wav|話をしたの覚えてるかな？
 DUMMY/SRN/SN003253.wav|まあ、ありがとうの規模よ。
 DUMMY/SRN/SN003254.wav|シャーリーに梅干ってありがとう。
@@ -1953,7 +1928,6 @@ DUMMY/SRN/SN003335.wav|あスパチャありがとうございます。
 DUMMY/SRN/SN003336.wav|ねえ、あのもう社長さんだ。
 DUMMY/SRN/SN003337.wav|たくさん嬉しいことがねあるシーン。
 DUMMY/SRN/SN003338.wav|美味しいものを食べさせてあげたいんだよね？
-DUMMY/SRN/SN003339.wav|美味しいご飯を全て奪います。
 DUMMY/SRN/SN003340.wav|スーパーマンだからね、ちょっと。
 DUMMY/SRN/SN003341.wav|そういや、でもね。
 DUMMY/SRN/SN003342.wav|みんなに心配かけてしまうから、あんまり。
@@ -2038,7 +2012,6 @@ DUMMY/SRN/SN003428.wav|うーん、何しようかな？
 DUMMY/SRN/SN003429.wav|今日薬を飲まなくても大丈夫？
 DUMMY/SRN/SN003430.wav|トイレで変な動きをしないようにしましょうね。
 DUMMY/SRN/SN003431.wav|ツーショットだからちょっと緊張している？
-DUMMY/SRN/SN003432.wav|セレナさんが怖すぎて戻しました。
 DUMMY/SRN/SN003433.wav|体力持ちますか？
 DUMMY/SRN/SN003434.wav|これからもっと頑張らなきゃなって思わせてくれる？
 DUMMY/SRN/SN003435.wav|こんな感じで車乗せてあげるよ。
@@ -2123,7 +2096,6 @@ DUMMY/SRN/SN003518.wav|もうどんどんなんか変の設定がね。
 DUMMY/SRN/SN003519.wav|老人ホームでもね。
 DUMMY/SRN/SN003520.wav|いや、でもね、本当に何もないからね。
 DUMMY/SRN/SN003521.wav|かわいいかわいいでしょこれ？
-DUMMY/SRN/SN003522.wav|うん、ジムでやってるよ。
 DUMMY/SRN/SN003524.wav|的な感じですね、まあ。
 DUMMY/SRN/SN003525.wav|でも、あれは毎日食べてたら絶対太るよ。
 DUMMY/SRN/SN003526.wav|めっちゃ可愛かったあの子、欲しかった。
@@ -2208,7 +2180,6 @@ DUMMY/SRN/SN003617.wav|何このこの文章草？
 DUMMY/SRN/SN003618.wav|これは何って書いてる？
 DUMMY/SRN/SN003619.wav|え、可愛いけどね。なんかこう。
 DUMMY/SRN/SN003620.wav|ああ、ギフト申請ありがとう。
-DUMMY/SRN/SN003621.wav|みんなもね、気をつけてね。
 DUMMY/SRN/SN003622.wav|猫は昨日最後何食べましたか？
 DUMMY/SRN/SN003623.wav|明日告白するってそれってさ？
 DUMMY/SRN/SN003624.wav|こんな感じ中遠うわぁ。
@@ -2293,7 +2264,6 @@ DUMMY/SRN/SN003710.wav|ギフトによって配信の画面が変わるのかな
 DUMMY/SRN/SN003711.wav|いやあ、そうね。もうね、時間がないからさ。
 DUMMY/SRN/SN003712.wav|いや、でもね、本当ね。最近配信できてなかったからさ。
 DUMMY/SRN/SN003713.wav|私の中では明日からでもやんないんだけど。
-DUMMY/SRN/SN003715.wav|何か紙みたいなものがくっついてたらね、食べて。
 DUMMY/SRN/SN003716.wav|ええとちゃんと歌う六曲歌うから。
 DUMMY/SRN/SN003717.wav|20歳ぐらいなんじゃないですか？そう。
 DUMMY/SRN/SN003718.wav|配信ルームに入りましたっていう文字がすごい（いい人いたけど。
@@ -2378,7 +2348,6 @@ DUMMY/SRN/SN003807.wav|おノーノーノーノーと停車。
 DUMMY/SRN/SN003808.wav|いい感じに、おねいさんぐらいじゃないんでしょうかね？
 DUMMY/SRN/SN003809.wav|こう、これでこれで行こうこれ？
 DUMMY/SRN/SN003810.wav|もう帰ってきたから、もう帰ってきたよ。
-DUMMY/SRN/SN003811.wav|どんなのがいい今ねちょっとあるポーズをね。
 DUMMY/SRN/SN003812.wav|でも上流階級になった毎日これ食べちゃう？
 DUMMY/SRN/SN003813.wav|このこの英語で大丈夫なら。
 DUMMY/SRN/SN003814.wav|まあええ、where is very、very good。
@@ -2463,7 +2432,6 @@ DUMMY/SRN/SN003905.wav|スタジオのスタッフさんとかさびっくりす
 DUMMY/SRN/SN003906.wav|新書改めてめっちゃかわいいは何がとう？
 DUMMY/SRN/SN003907.wav|本物の、アイドルは1°に20曲歌えますよ。
 DUMMY/SRN/SN003908.wav|最近ホイップクリームまだ食べてないかも？
-DUMMY/SRN/SN003909.wav|独特な世界観が認められたんですかね？
 DUMMY/SRN/SN003910.wav|え、もうや由美子当たんないんでしょう？
 DUMMY/SRN/SN003911.wav|そのベッドベッド破壊したことでもいいよもう。
 DUMMY/SRN/SN003912.wav|明日ライブ中に。
@@ -2548,7 +2516,6 @@ DUMMY/SRN/SN004000.wav|左はパロランドでわ私はパロらんと好きな
 DUMMY/SRN/SN004001.wav|まあ、うちの弟も結構わんぱくだったから。
 DUMMY/SRN/SN004002.wav|親と子供の。
 DUMMY/SRN/SN004003.wav|ああ、猫はね、美味しくないよ。
-DUMMY/SRN/SN004004.wav|じゃあラストひとりんフラスターネクスト。
 DUMMY/SRN/SN004005.wav|セレナいっぱいだわなんか？動いた。
 DUMMY/SRN/SN004006.wav|まあ、私はお酒も飲めるんで20歳ですね一二。
 DUMMY/SRN/SN004007.wav|あっ、ありがとう。おやダンスもめちゃめちゃ頑張ったので。
@@ -2633,7 +2600,6 @@ DUMMY/SRN/SN004092.wav|本当にまた夜に寝てとかでもお昼にも寝ち
 DUMMY/SRN/SN004093.wav|ガチなんだ危ない危ない。
 DUMMY/SRN/SN004095.wav|ひゃあ、楽しみですね。
 DUMMY/SRN/SN004096.wav|そう、でももう壊したことでもいい。むしろそれで行こう。
-DUMMY/SRN/SN004097.wav|もうもうね。もういじわるしないよみんな。
 DUMMY/SRN/SN004098.wav|こんな感じで。空の色。
 DUMMY/SRN/SN004099.wav|そう。女の子たち。
 DUMMY/SRN/SN004100.wav|お腹痛くなってたらもうね、苦しいだけだから。
@@ -2718,7 +2684,6 @@ DUMMY/SRN/SN004185.wav|えそうだよは当局とか全部古すぎますって
 DUMMY/SRN/SN004186.wav|ねえ可愛い可愛い女の子にねモテモテですよ私は。
 DUMMY/SRN/SN004187.wav|そういうのはちょっとね。苦手でね、あんまり好きじゃなかった。
 DUMMY/SRN/SN004188.wav|なんか減ったりさ増えたりしてるのよ。
-DUMMY/SRN/SN004189.wav|合ってたって統計。こうして。
 DUMMY/SRN/SN004190.wav|俺の霊夢があってなった。
 DUMMY/SRN/SN004191.wav|思い出したくない記憶がよみがえって来ちゃったかな？
 DUMMY/SRN/SN004192.wav|心配だけど。でもやりたい。
@@ -2803,7 +2768,6 @@ DUMMY/SRN/SN004274.wav|それもちょっと練習しなきゃいけないしも
 DUMMY/SRN/SN004275.wav|あ、でもいいよ、お勧めだよトイレに一日一杯。
 DUMMY/SRN/SN004276.wav|いっぱいなんか秒針棒とか作って欲しい。
 DUMMY/SRN/SN004277.wav|え何誰これ純愛にんって書いてる？
-DUMMY/SRN/SN004278.wav|いや、これめっちゃかわいいでしょ？
 DUMMY/SRN/SN004279.wav|そのね、食べる量も少なくて、町のバランス取れて。
 DUMMY/SRN/SN004281.wav|レッツ、トイレトレーニング。オーケー。
 DUMMY/SRN/SN004282.wav|なんか、日本の七夕とはまた違うんだろうね。
@@ -2888,7 +2852,6 @@ DUMMY/SRN/SN004363.wav|おー研究うん、アイムハッピー。
 DUMMY/SRN/SN004364.wav|映画ですね。映画見てご主人様、これご主人様。
 DUMMY/SRN/SN004365.wav|まあ、それこそ日本よりも熱いと思うから。
 DUMMY/SRN/SN004366.wav|あのまあ、勉強はちょっとねなんかできなかったけど。
-DUMMY/SRN/SN004367.wav|全部はだめだよ。意味なくなっちゃう。
 DUMMY/SRN/SN004368.wav|前ネット回線悪かったけど今回悪くなさそうだよね？
 DUMMY/SRN/SN004369.wav|さあ、ここのこの右上にこのええ出してるんだけど。
 DUMMY/SRN/SN004371.wav|落ちた点をだって、もう寝ちゃったらさあ。
@@ -2973,7 +2936,6 @@ DUMMY/SRN/SN004460.wav|なんか大理石がどこかの床で転がって寝て
 DUMMY/SRN/SN004461.wav|とてもとてもプリティな猫ちゃんでありたい。
 DUMMY/SRN/SN004462.wav|オレンジスパチャ写真ありがとう。
 DUMMY/SRN/SN004463.wav|あっ、誰を何をその女の子？
-DUMMY/SRN/SN004464.wav|あ、こんな感じこんな感じ、こんな感じで。あのう。
 DUMMY/SRN/SN004465.wav|もうここまで喋れたらもうね、もう問題ないかな？
 DUMMY/SRN/SN004466.wav|引っ越し終わったんだけど、まだ段ボールがもうね、全然片付けられてないんだよ。
 DUMMY/SRN/SN004467.wav|笑い事じゃないんだけど、蒸し焼きになっちゃって。
@@ -3058,7 +3020,6 @@ DUMMY/SRN/SN004550.wav|明日アイスクリームを食べますか？アイス
 DUMMY/SRN/SN004551.wav|逃げられません。あなたは私から逃げられません。
 DUMMY/SRN/SN004553.wav|いつもお父さんが入ってくれたら、もう本当さん優先するんだけどね。
 DUMMY/SRN/SN004554.wav|もうね、イングリッシュもね、バリバリ喋れますからね。そう。
-DUMMY/SRN/SN004556.wav|そうね。まあそんな感じでね今ね準備中ではあるんだよね。
 DUMMY/SRN/SN004557.wav|しんしんバラフラワー新。オッケーありがとう。
 DUMMY/SRN/SN004558.wav|困っていいでしょう？これ恐ろしい何これ？ヤバとか言われてるけど。
 DUMMY/SRN/SN004559.wav|みんなの好きなね私を作り上げて。
@@ -3143,7 +3104,6 @@ DUMMY/SRN/SN004642.wav|だめだめ感いいと思ったんだけどなあ。
 DUMMY/SRN/SN004643.wav|ええなんか踊ってるよ後ろ何？
 DUMMY/SRN/SN004644.wav|ぜひね私の家の段ボール段ボールの中に。
 DUMMY/SRN/SN004645.wav|ワッチュ赤江ワッチyourカープあozカープ。
-DUMMY/SRN/SN004646.wav|はい、ラストこの方になりました。
 DUMMY/SRN/SN004647.wav|なんか頭ずっとぼーっとしてるし、体温はなんかすごいね。
 DUMMY/SRN/SN004648.wav|みっこそうそうそう。めちゃくちゃ可愛いのや由美子か？
 DUMMY/SRN/SN004649.wav|どれだっけなえんあ、これこれだっけ？
@@ -3228,7 +3188,6 @@ DUMMY/SRN/SN004732.wav|でもあのお上品なみすずちゃんは外してた
 DUMMY/SRN/SN004733.wav|ころんだよ。みんな立ち上がって性能ウルトラマンあ、分かった。
 DUMMY/SRN/SN004734.wav|精子ありがとう、そうだからね。ちょっとね。猫の心境祝いを。
 DUMMY/SRN/SN004735.wav|そうだから、もうね、今ねおーきな声でね、叫べない。
-DUMMY/SRN/SN004736.wav|猫年齢で言うと四歳って多分。まあ。
 DUMMY/SRN/SN004737.wav|ね玉ねぎくんの家に、ある食材とかも全部もらって帰りますね。
 DUMMY/SRN/SN004738.wav|まあ、この配信に来てくれてるみんなはね多分。
 DUMMY/SRN/SN004739.wav|どうですか？って放課後に、お茶でもいかが飲みませんか？って。
@@ -3313,7 +3272,6 @@ DUMMY/SRN/SN004822.wav|うん、でもね、最近ジムとかも言ってんだ
 DUMMY/SRN/SN004823.wav|まあ、これもなんだろうね、可愛い買おう。
 DUMMY/SRN/SN004825.wav|そうそう、何のゲームやってるのかな？あー私的にはポケモン。
 DUMMY/SRN/SN004826.wav|悪魔なあと思ってます。これはおじいさんが好きなブイチューバーですよそう。
-DUMMY/SRN/SN004827.wav|お前、今日配信休みじゃなかったっけ？配信休みではないですね。
 DUMMY/SRN/SN004828.wav|いいになれる。と思うから癒してください。
 DUMMY/SRN/SN004829.wav|であの腰を振る運動もやってたね、なんかこう。
 DUMMY/SRN/SN004830.wav|変わってないよ。高校生の皆さん。
@@ -3398,7 +3356,6 @@ DUMMY/SRN/SN004915.wav|どのくらい髪を洗ってませんか？うーん。
 DUMMY/SRN/SN004916.wav|36分以上になってきたら、もう私以上なので、これは熱です。
 DUMMY/SRN/SN004917.wav|この猫の頭のしらみはどうしてこんなりょうけいシラミじゃないよ。
 DUMMY/SRN/SN004918.wav|60万人の景色はまた違っていいですね、うん。
-DUMMY/SRN/SN004919.wav|私も無自分がまさかそんなになんか体調崩すと思わなかったから。
 DUMMY/SRN/SN004920.wav|だって私の体温から考えても4°くらい。
 DUMMY/SRN/SN004921.wav|なんでだろうね、褒められるのにあんまり慣れてないんだよ、昔から。
 DUMMY/SRN/SN004922.wav|まだね、許されるかな。まだまだ清楚でもいいかなって。
@@ -3483,7 +3440,6 @@ DUMMY/SRN/SN100012.wav|何かわかりました。これですね。やはりこ
 DUMMY/SRN/SN100019.wav|どうですか？一応館長の方へとチェキ。そして色紙とあと缶バッチ。
 DUMMY/SRN/SN100020.wav|えっあ、この動きをやればいいの？これ。
 DUMMY/SRN/SN100021.wav|まあでもうん。3D配信3D配信。スタジオでやるの初めてだからね、実は。
-DUMMY/SRN/SN100023.wav|あふゆのはな、ちょっと聞いてみる。ちょっと聞いてみましょう。
 DUMMY/SRN/SN100024.wav|いや、私はもうね。全然いけるよ、任せな。
 DUMMY/SRN/SN100025.wav|でも明日はええとちゃんと歌うの曲歌うから。
 DUMMY/SRN/SN100026.wav|さあ。関のサインは提督さんは確定で貰える感じになります。
